@@ -1,0 +1,7 @@
+market_id,market,countryiso3,admin1,admin2,latitude,longitude
+#loc+market+code,#loc+market+name,#country+code,#adm1+name,#adm2+name,#geo+lat,#geo+lon
+2625,Xalapa,MEX,Veracruz,Xico,19.54,-96.93
+2626,Puebla,MEX,Puebla,San Andres Cholula,19.01,-98.2
+2627,Mexico City,MEX,Distrito Federal,Cuauhtemoc,19.41,-99.13
+2628,Guadalajara,MEX,Jalisco,Guadalajara,20.68,-103.35
+2629,Culiacán,MEX,Sinaloa,Culiacan,24.8,-107.39
